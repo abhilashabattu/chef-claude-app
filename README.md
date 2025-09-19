@@ -65,22 +65,28 @@ A React-based web application that allows users to generate recipes based on the
 
 ## Project Structure
 
-```bash
-ChefClaudeApp/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── ai.js                   # AI API integration
-│   ├── App.js                  # Main App component
-│   ├── App.css                 # App styling
-│   ├── components/
-│   │   ├── Header.jsx          # Header component
-│   │   ├── Main.jsx            # Main component
-│   │   ├── IngredientsList.jsx # Ingredient list component
-│   │   └── ClaudeRecipe.jsx    # Recipe display component
-│   ├── images/                 # Logo and images
-│   └── index.js                # Entry point
-├── .env.local                  # Environment variables (API token)
-├── package.json
-└── README.md
+	```bash
+	ChefClaudeApp/
+	├── public/
+	│   ├── index.html
+	│   └── ...
+	├── src/
+	│   ├── ai.js                   # AI API integration
+	│   ├── App.js                  # Main App component
+	│   ├── App.css                 # App styling
+	│   ├── components/
+	│   │   ├── Header.jsx          # Header component
+	│   │   ├── Main.jsx            # Main component
+	│   │   ├── IngredientsList.jsx # Ingredient list component
+	│   │   └── ClaudeRecipe.jsx    # Recipe display component
+	│   ├── images/                 # Logo and images
+	│   └── index.js                # Entry point
+	├── .env.local                  # Environment variables (API token)
+	├── package.json
+	└── README.md
+
+## DEMO
+
+https://github.com/user-attachments/assets/5127e6cb-42ea-49a9-82a0-08157b7b1171
+
+
