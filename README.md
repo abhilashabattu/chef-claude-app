@@ -35,29 +35,35 @@ A React-based web application that allows users to generate recipes based on the
    git clone https://github.com/yourusername/chef-claude-app.git
    cd chef-claude-app
 
-2. **Install dependencies**
-   npm install
-    or
-   yarn install
+3. **Install dependencies**
+   
+	 ```bash
+     npm install
+     # or
+     yarn install
 
-3. **Configure environment variables**
+4. **Configure environment variables**
 
-⦁	Create a .env.local file in the project root
+- Create a .env.local file in the project root
+- Add your HuggingFace API token:
 
-⦁	Add your HuggingFace API token:
-	```bash
-	REACT_APP_HF_ACCESS_TOKEN=your_huggingface_token_here
-4. **Run the development server**
+  	```bash
+	-REACT_APP_HF_ACCESS_TOKEN=your_huggingface_token_here
+
+		
+
+6. **Run the development server**
 
    ```bash
    npm start
    # or
    yarn start
 
-5. **Access the application**
-   -Open your browser and go to http://localhost:3000
+7. **Access the application**
+   
+	-Open your browser and go to http://localhost:3000
 
-Project Structure
+## Project Structure
 
 ```bash
 ChefClaudeApp/
