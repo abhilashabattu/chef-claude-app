@@ -37,7 +37,7 @@ A React-based web application that allows users to generate recipes based on the
 
 2. **Install dependencies**
    npm install
-   # or
+    or
    yarn install
 
 3. **Configure environment variables**
