@@ -31,8 +31,4 @@ Clone this repository and go inside it:
 git clone https://github.com/yourusername/chef-claude-app.git
 cd chef-claude-app
 
-npm install
 
-Install the dependencies:
-
-npm install
